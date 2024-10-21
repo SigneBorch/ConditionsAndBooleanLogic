@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//Opgave med boolean logic
 public class Dating{
     public static void main(String[] args){
 
